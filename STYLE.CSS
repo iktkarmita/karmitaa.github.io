@@ -1,0 +1,49 @@
+
+
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow:  1px 1px 3px rgba(0, 0, 0, 5);
+}
+
+
+section {
+  padding-top: 3.5em;
+
+}
+
+.parallax-container {
+  height: 700px;
+}
+
+.parallax img {
+  filter:  grayscale(1);
+  opacity: 0.5 !important;
+}
+
+.clients img {
+  max-width: 145px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+
+}
+.list-group {
+  border-radius: 20px;
+  text-decoration: none;
+  box-shadow: 2px 2px 4px rgba(241, 196, 15,1.0), -2px -2px 6px rgb(46, 204, 113);
+}
+.list-group-item:hover {
+  background-color: red;
+}
+
+.signup {
+  padding-top: 14em;
+}
+
+.apa {
+  background: url(GIF6.gif);
+}
+
+.sidenav {
+  background: url(GIF6.gif);
+}
+
